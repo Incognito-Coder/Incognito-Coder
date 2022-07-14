@@ -1,16 +1,22 @@
-### Hi there 👋
-
-<!--
-**Incognito-Coder/Incognito-Coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi there 👋
+## I'm alireza ahmand
+20 yo Developer from iran,interested in android programming and web development \
+\
+[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
+[![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
+[![GitHub contributors](https://img.shields.io/github/contributors/Naereen/badges.svg)](https://GitHub.com/Naereen/badges/graphs/contributors/)
+### Something about me
+- 🔭 I’m currently working on Android SRE
+- 🌱 I’m currently learning Laravel
+- 👯 I’m looking to collaborate on Big Ideas
+- 🤔 I’m looking for help with Instagram Session
+- 💬 Ask me about my self
+- ⚡ Fun fact: Gaming
+- 📫 How to reach me: \
+\
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmand@vk.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](tg://resolve?domain=incognito_coder)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mr-alireza.ir)
+### Github Status
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Incognito-Coder&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Incognito-Coder&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
