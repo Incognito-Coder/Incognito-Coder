@@ -11,7 +11,7 @@
 - 📫 How to reach me: \
 \
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmand@vk.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](tg://resolve?domain=incognito_coder)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/incognito_coder)
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mr-alireza.ir)
 ### Github Status
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Incognito-Coder&theme=radical)
