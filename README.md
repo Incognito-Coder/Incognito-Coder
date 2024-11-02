@@ -1,11 +1,10 @@
 # Hi there 👋
 ## I'm alireza ahmand
-22 yo Developer from iran,interested in android programming and web development
+23 yo Developer from iran,interested in android programming and web development
 ### Something about me
 - 🔭 I’m currently working on Android SRE
 - 🌱 I’m currently learning Laravel
 - 👯 I’m looking to collaborate on Big Ideas
-- 🤔 I’m looking for help with Instagram Session
 - 💬 Ask me about my self
 - ⚡ Fun fact: Gaming
 - 📫 How to reach me: \
