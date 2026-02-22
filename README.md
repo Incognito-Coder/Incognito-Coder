@@ -1,12 +1,12 @@
 # Hi there 👋
-## I'm alireza ahmand
+## I'm Alireza Ah-mand
 24 yo Developer from iran,interested in android programming and web development
 ### Something about me
 - 🔭 I’m currently working on Android SRE
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning Golang
 - 👯 I’m looking to collaborate on Big Ideas
 - 💬 Ask me about my self
-- ⚡ Fun fact: Gaming
+- ⚡ Fun fact: Gaming , Linux
 - 📫 How to reach me: \
 \
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmand@vk.com)
