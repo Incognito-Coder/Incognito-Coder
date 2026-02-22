@@ -13,4 +13,4 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/incognito_coder)
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mr-alireza.ir)
 ### Github Status
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Incognito-Coder&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=incognito-coder&show_icons=true)
